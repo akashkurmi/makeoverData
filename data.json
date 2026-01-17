@@ -1,21 +1,21 @@
 [
     {
       "id": 1,
-      "category": "Bridal",
+      "category": "Fashion",
       "title": "Classic Indian Bride",
       "image": "https://storage.googleapis.com/anjali-makeover/1.JPG",
       "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     },
     {
       "id": 2,
-      "category": "Fashion",
+      "category": "Bridal",
       "title": "Editorial Glow",
       "image": "https://storage.googleapis.com/anjali-makeover/2.JPG",
        "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     },
     {
       "id": 3,
-      "category": "Party",
+      "category": "Bridal",
       "title": "Reception Glam",
       "image": "https://storage.googleapis.com/anjali-makeover/3.JPG",
        "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
@@ -29,14 +29,14 @@
     },
     {
       "id": 5,
-      "category": "Fashion",
+      "category": "Party",
       "title": "Vogue Editorial",
       "image": "https://storage.googleapis.com/anjali-makeover/5.JPG",
        "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     },
     {
       "id": 6,
-      "category": "Party",
+      "category": "Bridal",
       "title": "Cocktail Night",
       "image": "https://storage.googleapis.com/anjali-makeover/6.JPG",
        "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
