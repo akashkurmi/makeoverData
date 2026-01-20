@@ -22,7 +22,7 @@
     "id": 3,
     "category": "Bridal",
     "title": "Reception Glam",
-    "image": "https://storage.googleapis.com/anjali-makeover/11.JPG",
+    "image": "https://storage.googleapis.com/anjali-makeover/15.JPG",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   },
   {
@@ -72,6 +72,34 @@
     "category": "Bridal",
     "title": "Cocktail Night",
     "image": "https://storage.googleapis.com/anjali-makeover/10.JPG",
+    "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": 11,
+    "category": "Bridal",
+    "title": "Cocktail Night",
+    "image": "https://storage.googleapis.com/anjali-makeover/11.JPG",
+    "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": 12,
+    "category": "Bridal",
+    "title": "Cocktail Night",
+    "image": "https://storage.googleapis.com/anjali-makeover/12.JPG",
+    "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": 13,
+    "category": "Bridal",
+    "title": "Cocktail Night",
+    "image": "https://storage.googleapis.com/anjali-makeover/13.JPG",
+    "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+  },
+  {
+    "id": 14,
+    "category": "Bridal",
+    "title": "Cocktail Night",
+    "image": "https://storage.googleapis.com/anjali-makeover/14.JPG",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
   }
 ]
