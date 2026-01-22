@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "category": "Party",
+    "category": "Bridal",
     "title": "Classic Indian Bride",
     "image": "https://storage.googleapis.com/anjali-makeover/_19.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -13,8 +13,8 @@
   },
   {
     "id": 2,
-    "category": "Fashion",
-    "title": "Classic Indian Bride",
+    "category": "Bridal",
+    "title": "",
     "image": "https://storage.googleapis.com/anjali-makeover/_23.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     "subImages": [
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "category": "Fashion",
+    "category": "Bridal",
     "title": "Classic Indian Bride",
     "image": "https://storage.googleapis.com/anjali-makeover/_38.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "category": "Fashion",
+    "category": "Bridal",
     "title": "Classic Indian Bride",
     "image": "https://storage.googleapis.com/anjali-makeover/_41.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "category": "Fashion",
+    "category": "Party",
     "title": "Classic Indian Bride",
     "image": "https://storage.googleapis.com/anjali-makeover/_35.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "category": "Fashion",
+    "category": "Party",
     "title": "Classic Indian Bride",
     "image": "https://storage.googleapis.com/anjali-makeover/_24.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "category": "Fashion",
+    "category": "Party",
     "title": "Classic Indian Bride",
     "image": "https://storage.googleapis.com/anjali-makeover/_2.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "category": "Fashion",
+    "category": "Party",
     "title": "Classic Indian Bride",
     "image": "https://storage.googleapis.com/anjali-makeover/_46.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "category": "Fashion",
+    "category": "Party",
     "title": "Classic Indian Bride",
     "image": "https://storage.googleapis.com/anjali-makeover/_51.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "category": "Fashion",
+    "category": "Bridal",
     "title": "Classic Indian Bride",
     "image": "https://storage.googleapis.com/anjali-makeover/_7.jpg",
     "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
