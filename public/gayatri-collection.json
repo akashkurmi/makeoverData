@@ -1,19 +1,70 @@
 [
   {
-    "id": 1,
-    "category": "Bridal",
-    "title": "Classic Indian Bride",
-    "image": "https://storage.googleapis.com/anjali-makeover/_19.jpg",
-    "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-    "alt": "Anjali makeup artist",
-    "subImages": [
-      "https://storage.googleapis.com/anjali-makeover/_14.jpg",
-      "https://storage.googleapis.com/anjali-makeover/_15.jpg",
-      "https://storage.googleapis.com/anjali-makeover/_16.jpg",
-      "https://storage.googleapis.com/anjali-makeover/_17.jpg",
-      "https://storage.googleapis.com/anjali-makeover/_18.jpg",
-      "https://storage.googleapis.com/anjali-makeover/_20.jpg",
-      "https://storage.googleapis.com/anjali-makeover/_21.jpg"
-    ]
+    "id": "1",
+    "name": "Royal Red Bridal Lehenga",
+    "category": "Women's Wear",
+    "type": "Lehenga",
+    "pricePerDay": 5500,
+    "securityDeposit": 2000,
+    "color": {
+      "name": "Royal Red",
+      "hex": "#991b1b",
+      "tailwind": "bg-red-800"
+    },
+    "sizes": ["S", "M", "L"],
+    "imageUrl": "/lehenga1.png",
+    "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
+    "isAvailable": true
+  },
+  {
+    "id": "2",
+    "name": "Royal Red Bridal Lehenga",
+    "category": "Women's Wear",
+    "type": "Lehenga",
+    "pricePerDay": 5500,
+    "securityDeposit": 2000,
+    "color": {
+      "name": "Royal Red",
+      "hex": "#991b1b",
+      "tailwind": "bg-red-800"
+    },
+    "sizes": ["S", "M", "L"],
+    "imageUrl": "/lehenga1.png",
+    "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
+    "isAvailable": true
+  },
+  {
+    "id": "3",
+    "name": "Royal Red Bridal Lehenga",
+    "category": "Women's Wear",
+    "type": "Lehenga",
+    "pricePerDay": 5500,
+    "securityDeposit": 2000,
+    "color": {
+      "name": "Royal Red",
+      "hex": "#991b1b",
+      "tailwind": "bg-red-800"
+    },
+    "sizes": ["S", "M", "L"],
+    "imageUrl": "https://storage.googleapis.com/gayatri-collection/_1.JPG",
+    "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
+    "isAvailable": true
+  },
+  {
+    "id": "4",
+    "name": "Royal Red Bridal Lehenga",
+    "category": "Women's Wear",
+    "type": "Lehenga",
+    "pricePerDay": 5500,
+    "securityDeposit": 2000,
+    "color": {
+      "name": "Royal Red",
+      "hex": "#991b1b",
+      "tailwind": "bg-red-800"
+    },
+    "sizes": ["S", "M", "L"],
+    "imageUrl": "https://storage.googleapis.com/gayatri-collection/_1.JPG",
+    "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
+    "isAvailable": true
   }
 ]
