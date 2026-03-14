@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "category": "Bridal",
+    "title": "Classic Indian Bride",
+    "image": "https://storage.googleapis.com/anjali-makeover/_19.jpg",
+    "link": "https://www.instagram.com/reel/DTXocLTEe0l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "alt": "Anjali makeup artist",
+    "subImages": [
+      "https://storage.googleapis.com/anjali-makeover/_14.jpg",
+      "https://storage.googleapis.com/anjali-makeover/_15.jpg",
+      "https://storage.googleapis.com/anjali-makeover/_16.jpg",
+      "https://storage.googleapis.com/anjali-makeover/_17.jpg",
+      "https://storage.googleapis.com/anjali-makeover/_18.jpg",
+      "https://storage.googleapis.com/anjali-makeover/_20.jpg",
+      "https://storage.googleapis.com/anjali-makeover/_21.jpg"
+    ]
+  }
+]
