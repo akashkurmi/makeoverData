@@ -13,8 +13,11 @@
     },
     "sizes": ["S", "M", "L"],
     "imageUrl": "/lehenga1.png",
+    "alt": "",
+    "instaLink": "",
     "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
-    "isAvailable": true
+    "isAvailable": true,
+    "subImages": []
   },
   {
     "id": "2",
@@ -30,8 +33,11 @@
     },
     "sizes": ["S", "M", "L"],
     "imageUrl": "/lehenga1.png",
+    "alt": "",
+    "instaLink": "",
     "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
-    "isAvailable": true
+    "isAvailable": true,
+    "subImages": []
   },
   {
     "id": "3",
@@ -47,8 +53,11 @@
     },
     "sizes": ["S", "M", "L"],
     "imageUrl": "https://storage.googleapis.com/gayatri-collection/_1.JPG",
+    "alt": "",
+    "instaLink": "",
     "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
-    "isAvailable": true
+    "isAvailable": true,
+    "subImages": []
   },
   {
     "id": "4",
@@ -64,7 +73,10 @@
     },
     "sizes": ["S", "M", "L"],
     "imageUrl": "https://storage.googleapis.com/gayatri-collection/_1.JPG",
+    "alt": "",
+    "instaLink": "",
     "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
-    "isAvailable": true
+    "isAvailable": true,
+    "subImages": []
   }
 ]
