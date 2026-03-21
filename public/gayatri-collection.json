@@ -1,82 +1,88 @@
 [
   {
     "id": "1",
-    "name": "Royal Red Bridal Lehenga",
+    "name": "Designer Lehenga",
     "category": "Women's Wear",
     "type": "Lehenga",
-    "pricePerDay": 5500,
-    "securityDeposit": 2000,
+    "pricePerDay": 1999,
+    "securityDeposit": 1000,
     "color": {
-      "name": "Royal Red",
+      "name": "Blue",
       "hex": "#991b1b",
       "tailwind": "bg-red-800"
     },
     "sizes": ["S", "M", "L"],
-    "imageUrl": "/lehenga1.png",
+    "imageUrl": "https://storage.googleapis.com/gayatri-collection/_5.webp",
     "alt": "",
     "instaLink": "",
-    "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
+    "description": "Gayatri Collection thegayatricollection_2026",
     "isAvailable": true,
-    "subImages": []
+    "subImages": ["https://storage.googleapis.com/gayatri-collection/_4.webp"]
   },
   {
     "id": "2",
-    "name": "Royal Red Bridal Lehenga",
+    "name": "Designer Lehenga",
     "category": "Women's Wear",
     "type": "Lehenga",
-    "pricePerDay": 5500,
-    "securityDeposit": 2000,
+    "pricePerDay": 1999,
+    "securityDeposit": 1000,
     "color": {
-      "name": "Royal Red",
+      "name": "Pink",
       "hex": "#991b1b",
       "tailwind": "bg-red-800"
     },
     "sizes": ["S", "M", "L"],
-    "imageUrl": "/lehenga1.png",
+    "imageUrl": "https://storage.googleapis.com/gayatri-collection/_7.webp",
     "alt": "",
     "instaLink": "",
-    "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
+    "description": "Gayatri Collection thegayatricollection_2026",
     "isAvailable": true,
-    "subImages": []
+    "subImages": [
+      "https://storage.googleapis.com/gayatri-collection/_8.webp",
+      "https://storage.googleapis.com/gayatri-collection/_9.webp"
+    ]
   },
   {
     "id": "3",
-    "name": "Royal Red Bridal Lehenga",
+    "name": "Designer Lehenga",
     "category": "Women's Wear",
     "type": "Lehenga",
-    "pricePerDay": 5500,
-    "securityDeposit": 2000,
+    "pricePerDay": 1999,
+    "securityDeposit": 1000,
     "color": {
-      "name": "Royal Red",
+      "name": "Pink",
       "hex": "#991b1b",
       "tailwind": "bg-red-800"
     },
     "sizes": ["S", "M", "L"],
-    "imageUrl": "https://storage.googleapis.com/gayatri-collection/_1.JPG",
+    "imageUrl": "https://storage.googleapis.com/gayatri-collection/_10.webp",
     "alt": "",
     "instaLink": "",
-    "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
+    "description": "Gayatri Collection thegayatricollection_2026",
     "isAvailable": true,
-    "subImages": []
+    "subImages": [
+      "https://storage.googleapis.com/gayatri-collection/_6.webp",
+      "https://storage.googleapis.com/gayatri-collection/_12.webp"
+    ]
   },
   {
     "id": "4",
-    "name": "Royal Red Bridal Lehenga",
+    "name": "Designer Lehenga",
     "category": "Women's Wear",
     "type": "Lehenga",
-    "pricePerDay": 5500,
-    "securityDeposit": 2000,
+    "pricePerDay": 1999,
+    "securityDeposit": 1000,
     "color": {
-      "name": "Royal Red",
+      "name": "cream white",
       "hex": "#991b1b",
       "tailwind": "bg-red-800"
     },
     "sizes": ["S", "M", "L"],
-    "imageUrl": "https://storage.googleapis.com/gayatri-collection/_1.JPG",
+    "imageUrl": "https://storage.googleapis.com/gayatri-collection/_13.webp",
     "alt": "",
     "instaLink": "",
-    "description": "Heavy Zardosi work on velvet fabric, perfect for bridal wear.",
+    "description": "Gayatri Collection thegayatricollection_2026",
     "isAvailable": true,
-    "subImages": []
+    "subImages": ["https://storage.googleapis.com/gayatri-collection/_11.webp"]
   }
 ]
